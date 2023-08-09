@@ -1,7 +1,7 @@
 {
   "template": "https://github.com/scverse/cookiecutter-scverse",
-  "commit": "7b5b86f3b44d9d6b387ecaa934ad4b52780dc96a",
-  "checkout": "main",
+  "commit": "121bcbf58a44863613069dff10ff1f32d8a110df",
+  "checkout": "v0.2.21",
   "context": {
     "cookiecutter": {
       "project_name": "scvi-criticism",
